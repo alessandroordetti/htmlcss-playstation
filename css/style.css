@@ -1,0 +1,16 @@
+body {
+    color: white
+}
+
+.prenavbar {
+    color: red;
+}
+
+.jumbotron {
+    background-color: brown;
+    height: 600px;
+}
+
+.titles img{
+    width: 100%;
+}
