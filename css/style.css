@@ -1,5 +1,5 @@
 body {
-    color: white
+    color: black;
 }
 
 .prenavbar {
@@ -7,10 +7,54 @@ body {
 }
 
 .jumbotron {
-    background-color: brown;
-    height: 600px;
+    background-image: url('../img/returnal-listing-thumb-01-ps5.jpg');
+    height: 900px;
+    background-position: inherit;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.second-jumbotron {
+    background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
+    height: 900px;
+    background-position: inherit;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .titles img{
     width: 100%;
+}
+
+.big-playstation-image img{
+    width: 100%;
+    
+}
+
+.playstation-devices img {
+    width: 100%;
+}
+
+.latest-titles {
+    background-color: rgb(31, 31, 31);
+}
+
+.latest-titles img {
+    width: 100%;
+}
+
+.explore img {
+    width: 100%;
+}
+
+.ps-plus {
+    background-color: gray;
+}
+
+.ps-plus img {
+    width: 60%;
+}
+
+.ps-plus .col-12  {
+    padding: 2rem;
 }
