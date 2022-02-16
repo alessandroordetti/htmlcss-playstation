@@ -4,7 +4,16 @@ body {
 }
 
 .prenavbar {
-    color: red;
+    height: 20px;
+}
+
+.lens-logo {
+    width: 50px;
+    font-weight: bolder;
+}
+
+.lens-logo img {
+    width: 65%;
 }
 
 .jumbotron {
