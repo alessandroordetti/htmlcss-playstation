@@ -124,6 +124,11 @@ footer ul {
     list-style: none;
 }
 
+.fa-solid.fa-trademark {
+    height: 40%;
+}
+
+
 @media screen and (min-width: 992px) {
 .social-contacts {
     width: 80%;
