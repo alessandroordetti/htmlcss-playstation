@@ -67,6 +67,10 @@ body {
     border-bottom: 3px solid blue;
 }
 
+.selected-device-hover:hover {
+    border-bottom: 3px solid blue;
+}
+
 .latest-titles {
     background-color: rgb(31, 31, 31);
 }
