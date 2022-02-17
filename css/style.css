@@ -3,8 +3,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Tutti i buttons hanno lo stesso border radius, quindi scriviamo un unico css per esso */
+.button-radius {
+    border-radius: 2rem;
+}
+
 .prenavbar {
-    height: 20px;
+    font-size: 1.2rem;
 }
 
 .lens-logo {
@@ -14,6 +19,10 @@ body {
 
 .lens-logo img {
     width: 65%;
+}
+
+.rounded-borders {
+    border: 3px solid blue;
 }
 
 .jumbotron {
